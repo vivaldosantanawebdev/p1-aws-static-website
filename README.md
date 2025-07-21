@@ -33,7 +33,7 @@ User
   ↓
 CloudFront (HTTPS with SSL)
   ↓
-S3 Bucket (HTML/CSS/JS files)
+S3 Bucket (HTML/CSS files)
   ↘
 Route 53 (Custom domain management)
 ```
